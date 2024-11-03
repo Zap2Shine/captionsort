@@ -1,0 +1,13 @@
+{
+  "name": "captionsort",
+  "version": "1.0.0",
+  "description": "not a pawrn sorter",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "tesseract.js": "^5.1.1"
+  }
+}
